@@ -1,0 +1,14 @@
+{
+    "ClientA": {
+        "type": "excel",
+        "file_path": "path/to/excel/file.xlsx"
+    },
+    "ClientB": {
+        "type": "api",
+        "api_url": "https://api.example.com/data"
+    },
+    "ClientC": {
+        "type": "ftp",
+        "ftp_url": "ftp://example.com/data"
+    }
+}
