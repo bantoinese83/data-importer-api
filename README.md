@@ -1,12 +1,14 @@
 # Data Importer API 🚀
 
-## Overview
+## 🚀 Technologies
 
-The Data Importer API is a FastAPI-based application that allows importing data from various sources such as Excel
-files, APIs, FTP servers, and S3 blob storage. This API provides a unified interface to handle different data import
-mechanisms.
+<img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python 3.8+">
+<img src="https://img.shields.io/badge/FastAPI-0.115.5-green.svg" alt="FastAPI">
+<img src="https://img.shields.io/badge/httpx-0.27.2-blue.svg" alt="httpx">
+<img src="https://img.shields.io/badge/pandas-2.2.3-green.svg" alt="pandas">
+<img src="https://img.shields.io/badge/boto3-1.35.68-blue.svg" alt="boto3">
 
-## Features
+## ✨ Key Features
 
 - Import data from Excel files
 - Import data from APIs
@@ -14,7 +16,13 @@ mechanisms.
 - Import data from S3 blob storage
 - Robust error handling and logging
 
-## Installation
+## 📝 Description
+
+The Data Importer API is a FastAPI-based application that allows importing data from various sources such as Excel
+files, APIs, FTP servers, and S3 blob storage. This API provides a unified interface to handle different data import
+mechanisms.
+
+## 🚀 Installation
 
 1. Clone the repository:
     ```sh
